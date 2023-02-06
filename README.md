@@ -1,4 +1,4 @@
-###### Jeu vidéo Pico-8 : Halloween in the city of ghosts.
+# Jeu vidéo Pico-8 : Halloween in the city of ghosts.
 
 ## A propos du projet
 
@@ -18,7 +18,7 @@ Fonctionnalités : Déplacement sur la map, dialogues, gestion des colisions, an
 
 Vous pouvez jouer à Halloween of the city of ghosts sur le forum de Pico-8 : https://www.lexaloffle.com/bbs/?tid=50132.
 
-# Quelques images
+## Quelques images
 
 ![image](https://user-images.githubusercontent.com/115532041/216939523-82d8101e-b4cd-4270-8cea-1f7fb382ec62.png)
 ![image](https://user-images.githubusercontent.com/115532041/216940020-ff8c9047-2e59-4dad-a9f0-bae17cecb0d5.png)
