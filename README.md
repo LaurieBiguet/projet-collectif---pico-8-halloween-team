@@ -9,11 +9,11 @@ Halloween of the city of ghosts est un jeu d'aventure. Un jour, Molly décide d'
 
 Langage : LUA.
 
-Outil : https://www.lexaloffle.com/pico-8.php.
+Outils : https://www.lexaloffle.com/pico-8.php, Vscode, Github, Trello.
 
 Contraintes : écran carré de 128 pixels, sprites carré de 8px, 16 couleurs, 4 canaux sonores.
 
-Fonctionnalités : Déplacement sur la map, dialogues, gestion des colisions, animation du personnage, boutons pour les                         actions, afficher un compteur pour les bonbons, suivi de la caméra.
+Fonctionnalités : Déplacement sur la map, dialogues, gestion des colisions, animation du personnage, boutons pour les actions, afficher un compteur pour les bonbons, suivi de la caméra.
                
 
 Vous pouvez jouer à Halloween of the city of ghosts sur le forum de Pico-8 : https://www.lexaloffle.com/bbs/?tid=50132.
