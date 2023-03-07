@@ -17,7 +17,13 @@ https://www.lexaloffle.com/pico-8.php, Vscode, Github, Trello.
 Ecran carré de 128 pixels, sprites carré de 8px, 16 couleurs, 4 canaux sonores.  
 
 ## Fonctionnalités  
-Déplacement sur la map, dialogues, gestion des colisions, animation du personnage, boutons pour les actions, afficher un compteur pour les bonbons, suivi de la caméra.    
+* Déplacement sur la map,
+* Dialogues,
+* Gestion des colisions,
+* Animation du personnage,
+* Boutons pour les actions,
+* Afficher un compteur pour les bonbons,
+* Suivi de la caméra.    
 
 Développé par Kristina Kirakosiani, Théo Seuge et Laurie Biguet.  
 
